@@ -33,7 +33,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/C0bal/reactjs-podcastr-nlw5 && cd reactjs-podcastr-nlw5
+$ git clone https://github.com/Artur-Ceschin/NLW05-ReactJS.git && cd reactjs-podcastr-nlw5
 ```
 
 Follow the steps below
