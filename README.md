@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="Podcastr" title="Podcastr" src=".github/nlw-react.png" />
 </h1>
-<div align="center">
+<div align="center" >
     <img src=".github/nlw-react02.png" />
     <img src=".github/nlw-react03.png" />
 </div>
@@ -33,7 +33,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/Artur-Ceschin/NLW05-ReactJS.git && cd reactjs-podcastr-nlw5
+$ git clone https://github.com/Artur-Ceschin/NLW05-ReactJS.git 
 ```
 
 Follow the steps below
