@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img alt="Podcastr" title="Podcastr" src=".github/nw-react.png" />
+    <img alt="Podcastr" title="Podcastr" src=".github/nlw-react.png" />
 </h1>
 <div align="center">
-    <img src=".github/nw-react02.png" />
-    <img src=".github/nw-react03.png" />
+    <img src=".github/nlw-react02.png" />
+    <img src=".github/nlw-react03.png" />
 </div>
 
 <p align="center">
