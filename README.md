@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img alt="Podcastr" title="Podcastr" src=".github/nw-react.png" />
+    <img alt="Podcastr" title="Podcastr" src="./github/nw-react.png" />
 </h1>
 <div align="center">
-    <img src=".github/nw-react02.png">
-    <img src=".github/nw-react03.png">
-<div>
+    <img src="./github/nw-react02.png">
+    <img src="./github/nw-react03.png">
+<div/>
 
 <p align="center">
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
